@@ -202,9 +202,6 @@ Enable serial monitor (115200 baud) to view:
 - [ ] Multi-device synchronization
 - [ ] OTA firmware updates
 
-## License
-
-[Add your license here]
 
 ## Support
 
